@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/checkers_c.png
 title: "Checkers_c"
 date: 2022-11-09
 published: true
