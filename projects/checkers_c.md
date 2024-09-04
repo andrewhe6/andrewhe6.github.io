@@ -1,3 +1,17 @@
+---
+layout: project
+type: project
+image: img/cotton/cotton-square.png
+title: "Checkers_c"
+date: 2023-09-01
+published: true
+labels:
+  - C
+  - GitHub
+summary: "A text-based recreation of checkers built in C."
+---
+
+
 // SCOPE - libraries
 #include <cs50.h>
 #include <stdio.h>
