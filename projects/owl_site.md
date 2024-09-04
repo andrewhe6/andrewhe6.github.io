@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/pueoOwl.png
 title: "Owl_site"
 date: 2023-02-14
 published: true
