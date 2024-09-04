@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title> Owls in Hawai'i </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
+
+    <script>
+        function myFunc() {
+            let fname = document.getElementById("firstname").value;
+            let lname = document.getElementById("lastname").value;
+            let fullName = fname.concat(" ", lname);
+            document.getElementById("popup").innerHTML = "This is a legally binding subscription contract. You may never unsubscribe or I WILL take legal action.";
+            alert("Thank you for subscribing, " + fullName + "! :)");
+        }
+    </script>
+</head>
+
+    <div class="header">
+    <h1>
+        <div class="blueLogo"><img src="HTMLBlueLogo.JPG" alt="logo" style="float: left"></div>
+        <div class="site">Owls in Hawai'i</div>
+    </h1>
+    </div>
+
+    <div class="navigation">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="history.html">History</a></li>
+            <li><a href="conservation.html">Conservation</a></li>
+            <li><a href="contact.html">About</a></li>
+        </ul>
+    </div>
+
+<body>
+    <div class="about">
+        <h2>About The Site</h2>
+        <p>The goal of this website is to teach people about the different types of owls living within the Hawaiian Islands. Although there are currently only 2 species in the islands, these owls are still important to the ecosystem and the culture of the people. By harboring greater knowledge of Hawai'i's fauna, we can aim to reduce the increasing effects of biodiversity loss and protect the diverse organisms found within the islands. </p>
+    </div>
+
+    <div class="form">
+        <h2>Subscribe for Email Updates</h2>
+        <form id="myForm">
+            <label for="firstname">First Name: </label>
+            <input type="text" id="firstname" name="firstname">
+            <label for="lastname">Last Name: </label>
+            <input type="text" id="lastname" name="lastname">
+            <label for="email">Email Address: </label>
+            <input type="text" id="email" name="email">
+        </form>
+        <button type="button" onclick="myFunc();">Subscribe!</button>
+        <p id="popup"></p>
+    </div>
+
+    <div class="contact">
+        <h2>Contact Information</h2>
+        <address>
+            <div class="whiteLogo"><img src="HTMLSiteLogo.jpg" alt="logo" style="float: left"></div>
+            Email: <a href="mailto:alh2302@iolani.org">alh2302@iolani.org</a> <br>
+            Writer: Andrew He <br>
+            Editor: Andrew He <br>
+            Publisher: Andrew He <br>
+            Logo Designer: Andrew He (made using Pixel Studio)<br>
+            Other Contributors: Andrew He <br>
+            Special thanks to Andrew He <br> <br>
+            Last updated February 14, 2023
+        </address>
+    </div>
+
+    <div class="cite">
+        <h2>Links to Sources</h2>
+            <div class="text">
+                <p>Clicking images will bring you to the source of the image</p>
+            </div>
+        <ul>
+            <div class="text">
+                <li><a href="https://en.wikipedia.org/wiki/Owl" target="_blank">https://en.wikipedia.org/wiki/Owl</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Barn_owl" target="_blank">https://en.wikipedia.org/wiki/Barn_owl</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Pueo" target="_blank">https://en.wikipedia.org/wiki/Pueo</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Stilt-owl" target="_blank">https://en.wikipedia.org/wiki/Stilt-owl</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Kumulipo" target="_blank">https://en.wikipedia.org/wiki/Kumulipo</a></li>
+                <li><a href="https://birdfeederhub.com/owls-in-hawaii/" target="_blank">https://birdfeederhub.com/owls-in-hawaii/</a></li>
+                <li><a href="https://www.wildbirdscoop.com/hawaii-owls.html" target="_blank">https://www.wildbirdscoop.com/hawaii-owls.html</a></li>
+                <li><a href="https://www.pueoproject.com/get-to-know-the-pueo" target="_blank">https://www.pueoproject.com/get-to-know-the-pueo</a></li>
+                <li><a href="https://www.pueoproject.com/other-owl-species-the-barn-owl" target="_blank">https://www.pueoproject.com/other-owl-species-the-barn-owl</a></li>
+                <li><a href="https://dlnr.hawaii.gov/wildlife/birds/pueo/" target="_blank">https://dlnr.hawaii.gov/wildlife/birds/pueo/</a></li>
+                <li><a href="https://www.pueoproject.com/single-post/2017/09/20/owls-and-hawaii-the-gallistrix-genus-the-pueo-and-the-barn-owl" target="_blank">https://www.pueoproject.com/single-post/2017/09/20/owls-and-hawaii-the-gallistrix-genus-the-pueo-and-the-barn-owl</a></li>
+                <li><a href="https://kidadl.com/facts/animals/stilt-owl-facts" target="_blank">https://kidadl.com/facts/animals/stilt-owl-facts</a></li>
+                <li><a href="http://www.biokids.umich.edu/critters/Asio_flammeus/" target="_blank">http://www.biokids.umich.edu/critters/Asio_flammeus/</a></li>
+                <li><a href="https://mauiinvasive.org/2015/02/05/pueo-or-barn-owl-heres-the-difference/" target="_blank">https://mauiinvasive.org/2015/02/05/pueo-or-barn-owl-heres-the-difference/</a></li>
+                <li><a href="https://melissarprice.weebly.com/uploads/5/4/9/6/54969431/final_report_pueo_project_dofaw_5-24-18.pdf" target="_blank">https://melissarprice.weebly.com/uploads/5/4/9/6/54969431/final_report_pueo_project_dofaw_5-24-18.pdf</a></li>
+                <li><a href="https://themolokaidispatch.com/hawaii-s-barn-owl/" target="_blank">https://themolokaidispatch.com/hawaii-s-barn-owl/</a></li>
+            </div>
+        </ul>
+    </div>
+
+</body>
+</html>
