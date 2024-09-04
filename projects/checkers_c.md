@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/cotton-square.png
 title: "Checkers_c"
-date: 2023-09-01
+date: 2022-11-09
 published: true
 labels:
   - C
