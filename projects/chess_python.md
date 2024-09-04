@@ -1,3 +1,17 @@
+---
+layout: project
+type: project
+image: img/cotton/cotton-square.png
+title: "Chess_python"
+date: 2023-05-10
+published: true
+labels:
+  - Python
+  - GitHub
+summary: "A text-based recreation of chess using Python."
+---
+
+
 import sys
 import random
 import time
