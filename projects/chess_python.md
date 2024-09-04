@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/chess_python.png
 title: "Chess_python"
 date: 2023-05-10
 published: true
