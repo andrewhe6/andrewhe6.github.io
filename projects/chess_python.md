@@ -8,7 +8,7 @@ published: true
 labels:
   - Python
   - GitHub
-summary: "A text-based recreation of chess using Python."
+summary: "A text-based recreation of chess built in Python."
 ---
 
 
