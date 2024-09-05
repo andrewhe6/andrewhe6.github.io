@@ -11,7 +11,16 @@ labels:
 summary: "A text-based recreation of checkers built in C."
 ---
 
+## About
+This project was created for my AP Computer Science Principles class and was our last project from following Harvard's CS50 course. It is a recreation of Checkers using the C programming language. It includes basic pieces which can only move forward and the promoted pieces which can move forward or backwards. I chose to recreate Checkers to challenge myself after seeing some of the previous student projects. 
 
+## My Role
+I was responsible for all the code. 
+
+## What I Learned
+This project was my first project that involved more complex logic than other coding assignments that I did which tested my patience and perserverance. Since I had learned Python beforehand, it was difficult switching to programming entirely in a low-level language like C, but having to resolve all the compile errors made me a lot better at finding information online.
+
+```
 // SCOPE - libraries
 #include <cs50.h>
 #include <stdio.h>
@@ -705,4 +714,5 @@ string update_board(string move, string board[8][4])
 
     // exits the function
     return 0;
-} // perfectly 700 lines :)
+} 
+```
