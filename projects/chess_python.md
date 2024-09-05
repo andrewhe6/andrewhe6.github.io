@@ -11,7 +11,16 @@ labels:
 summary: "A text-based recreation of chess built in Python."
 ---
 
+## About
+This project was created for my AP Computer Science Principles class and became my project that I submitted for the APCSP Create Task. It is an almost faithful recreation of Chess that is playable in the terminal. It contains moves such as castling, en passant, and pawns moving 2 spaces on their first move. I was also able to implement checkmate detection, stalemate detection, and an "AI" bot (it just selects a random move from a list of legal moves). Unfortunately I was unable to incorporate three-fold repetition and not allowing the player to castle out of check. 
 
+## My Role
+I was responsible for all the code. I thought about getting help from ChatGPT or other online chess programs but I was adamant on figuring it out myself.  
+
+## What I Learned
+Oh boy I learned a LOT about programming from this project. Firstly, I better learned how to utilize StackOverflow as a resource since I incorporated colored text output which I had no clue on how to do. This project was also a huge lesson in code organization and readability. When I first started coding the project, I ran into an error that I could not resolve and I found it increasingly harder to read my code. A few days before the due date, I decided to rewrite the code, maintaining mostly the same logic but creating more functions and using (somewhat) clearer variable names. It also taught me more about classes in Python, though I definitely could have used it more effectively. Despite being a pretty messy project held together by hopes and dreams, it inspired me to work on a modified version with a GUI through Pygame, a smarter AI bot using a minimax algorithm, and cleaner code with type annotations, separate files, and more concise functions. 
+
+```
 import sys
 import random
 import time
@@ -1112,3 +1121,4 @@ def prompt_rematch():
 # calls the main function to start the game loop
 if __name__ == "__main__":
     main()
+```
