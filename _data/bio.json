@@ -6,7 +6,7 @@
     "email": "andrewh6@hawaii.edu",
     "phone": " ",
     "website": "https://andrewhe6.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences and minoring in Psychology at the University of Hawaii. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "andrewhe6", "url": "http://github.com/andrewhe6" },
@@ -16,7 +16,8 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Web Development" },
-    { "name": "Psychology" }
+    { "name": "Psychology" },
+    { "name": "Game Design" }
   ],
   "skills": [
     {
@@ -48,8 +49,7 @@
       "endDate": "Present",
       "summary": "Office assistant for the Seminars and Journalism Depertment",
       "highlights": [
-        "Maintain, edit, and research information for program documents",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, edit, and research information for documents used in programs"
       ]
     },
     {
@@ -60,7 +60,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "",
+        "Dean's List",
         ""
       ]
     }
