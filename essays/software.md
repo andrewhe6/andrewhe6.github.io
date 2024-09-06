@@ -4,7 +4,7 @@ type: essay
 title: "My Future in Software Development"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
