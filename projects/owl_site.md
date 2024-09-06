@@ -23,4 +23,4 @@ I was responsible for the entire code, design, and research for the site. I also
 This was my first project using HTML and CSS and it lowered the barrier to web development for me. It was my first time dealing with the look and feel of a web page and having to focus on the user experience. I also learned some pretty interesting facts about owls!
 
 Source code to website
-[https://github.com/andrewhe6/owl_site](/uri https://github.com/andrewhe6/owl_site)
+[https://github.com/andrewhe6/owl_site](/url https://github.com/andrewhe6/owl_site)
