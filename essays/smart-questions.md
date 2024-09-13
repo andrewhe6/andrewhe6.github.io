@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-Communication is an integral skill that every software engineer should develop and one way to improve communication is by asking smarter questions. StockOverflow is a popular online forum where software engineers gather to ask and answer questions. The forum contains a plethora of questions, some good and some bad. I have recently read a blog by Eric Raymond titled “How to Ask Questions the Smart Way” in which he provides excellent guidelines on how to pose effective questions to generate clearer answers. 
+Communication is an integral skill that every software engineer should develop and one way to improve communication is by asking smarter questions. StackOverflow is a popular online forum where software engineers gather to ask and answer questions. The forum contains a plethora of questions, some good and some bad. I have recently read a blog by Eric Raymond titled “How to Ask Questions the Smart Way” in which he provides excellent guidelines on how to pose effective questions to generate clearer answers. 
 
 
 ## What Makes a Smart Question?
