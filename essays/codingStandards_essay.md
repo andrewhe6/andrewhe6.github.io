@@ -29,7 +29,7 @@ m)
 {return n+m
 }
 ```
-Both code blocks do the same thing and run without error (according to a quick test on JSFiddle), but the first block is a lot more readable. Personally if I had to work with anyone who coded in the style of the second block, I would wonder how the job market has fallen so much that a company would have to resort to hiring someone who writes such horrendous code. Obviously this is an extreme example and no sane person would ever code in the style seen in the second block. However, even 'trivial' implementations of coding standards are pretty important as they create cohesiveness in a program which makes it overall easier to read. For example:
+Both code blocks do the same thing and run without error (according to a quick test on JSFiddle), but the first block is a lot more readable. Personally if I had to work with anyone who coded in the style of the second block, I would wonder how the job market has fallen so much that a company would have to resort to hiring someone who writes such horrendous code. Obviously this is an extreme example and no sane person would ever code in the style seen in the second block. However, even "trivial" implementations of coding standards are pretty important as they create cohesiveness in a program which makes it overall easier to read. For example:
 ```
 for (i=0; i<var.length; i++) 
 {
