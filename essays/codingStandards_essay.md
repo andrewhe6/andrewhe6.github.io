@@ -4,7 +4,7 @@ type: essay
 title: "First ESLint Experience"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-26
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
