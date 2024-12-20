@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/clublogo.png
-title: "Club_pub"
+title: "The Club Pub"
 date: 2024-12-20
 published: true
 labels:
@@ -14,11 +14,12 @@ summary: "A website that provides a centralized hub where students can discover 
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/clublogo.png">
-
+<br>
 ## About
 The Club Pub is a project developed by our group, 404jobsnotfound, for our final project in ICS314. Our site is a centralized hub that allows students to easily discover clubs at UH Manoa. Regular site users are able to browse from a list of available clubs and view details such as meeting times, location, and contact information. Club admins are able to add new clubs and edit any clubs they create. They can also assign other people as admins for their club. Site admins are able to do all of the above and are also able to delete any club. The site was created using the NextJS framework, PostgreSQL for database management, Vercel for site deployment, and GitHub for project management. Along with our site, we also created a homepage that provides more details about our group, our development process, and guides for users and developers on accessing our site. 
+<br>
 <img width="400px" class="rounded float-start pe-4" src="../img/clubpage.png">
-
+<br>
 ## My Role
 Most of my contributions to the project were on adding to our group's homepage. I kept the homepage updated with all the necessary submission requirements while also ensuring that it was presentable to users outside the class. My contributions to the actual site were less on the coding side and more on the designing. I helped out in outlining the functionality of the site such as defining the specific permissions of each user type. My code contributions were mostly bugfixing and polishing up the site. 
 
@@ -27,11 +28,11 @@ This was my first experience developing a project working with other group membe
 
 This was also my first time using all of these interacting technologies to develop a fully functional site. I had never previously worked with databases before so it was a useful experience learning how to incorporate a PostgreSQL database using Prisma. I also did not have much experience with frontend development but learning NextJS and creating a public site helped me become more concious of the user experience in terms of layout, responsiveness, and ease of use. 
 
-Link to homepage
+Link to homepage:
 [https://github.com/andrewhe6/owl_site](https://github.com/andrewhe6/owl_site)
 
 Direct link to deployed site
-[Here](https://the-club-pub-git-test1-patricks-projects-491ced00.vercel.app/?_vercel_share=kx7zbHtZDkfMgfq28ZHsXK136z98NvUM)
+[here](https://the-club-pub-git-test1-patricks-projects-491ced00.vercel.app/?_vercel_share=kx7zbHtZDkfMgfq28ZHsXK136z98NvUM)
 
-Link to source code
+Link to source code:
 [https://github.com/404jobsnotfound/the-club-pub](https://github.com/404jobsnotfound/the-club-pub)
