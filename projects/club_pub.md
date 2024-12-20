@@ -34,7 +34,7 @@ This was also my first time using all of these interacting technologies to devel
 ---
 
 Link to homepage:
-[https://github.com/andrewhe6/owl_site](https://github.com/andrewhe6/owl_site)
+[https://404jobsnotfound.github.io/](https://404jobsnotfound.github.io/)
 
 Direct link to deployed site
 [here](https://the-club-pub-git-test1-patricks-projects-491ced00.vercel.app/?_vercel_share=kx7zbHtZDkfMgfq28ZHsXK136z98NvUM)
