@@ -14,12 +14,14 @@ summary: "A website that provides a centralized hub where students can discover 
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/clublogo.png">
-<br>
+<br />
+
 ## About
 The Club Pub is a project developed by our group, 404jobsnotfound, for our final project in ICS314. Our site is a centralized hub that allows students to easily discover clubs at UH Manoa. Regular site users are able to browse from a list of available clubs and view details such as meeting times, location, and contact information. Club admins are able to add new clubs and edit any clubs they create. They can also assign other people as admins for their club. Site admins are able to do all of the above and are also able to delete any club. The site was created using the NextJS framework, PostgreSQL for database management, Vercel for site deployment, and GitHub for project management. Along with our site, we also created a homepage that provides more details about our group, our development process, and guides for users and developers on accessing our site. 
-<br>
+<br />
 <img width="400px" class="rounded float-start pe-4" src="../img/clubpage.png">
-<br>
+<br /><br />
+
 ## My Role
 Most of my contributions to the project were on adding to our group's homepage. I kept the homepage updated with all the necessary submission requirements while also ensuring that it was presentable to users outside the class. My contributions to the actual site were less on the coding side and more on the designing. I helped out in outlining the functionality of the site such as defining the specific permissions of each user type. My code contributions were mostly bugfixing and polishing up the site. 
 
