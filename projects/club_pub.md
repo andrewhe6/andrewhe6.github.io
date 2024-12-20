@@ -21,9 +21,9 @@ The Club Pub is a project developed by our group, 404jobsnotfound, for our final
 <br />
 <img width="400px" class="rounded float-start pe-4" src="../img/clubpage.png">
 
-<br /><br /><br />
+<br /><br /><br />  
 
-My Role
+## My Role
 Most of my contributions to the project were on adding to our group's homepage. I kept the homepage updated with all the necessary submission requirements while also ensuring that it was presentable to users outside the class. My contributions to the actual site were less on the coding side and more on the designing. I helped out in outlining the functionality of the site such as defining the specific permissions of each user type. My code contributions were mostly bugfixing and polishing up the site. 
 
 ## What I Learned
