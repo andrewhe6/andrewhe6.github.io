@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "C", "Java", "Javascript", "HTML", "CSS" ]
+      "keywords": [ "Python", "C", "C++", "Java", "JavaScript/TypeScript", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
@@ -56,7 +56,7 @@
       "company": "UH Manoa",
       "position": "Student",
       "website": "http://www.hawaii.edu/",
-      "startDate": "2023-08-25",
+      "startDate": "Fall 2023",
       "endDate": "Present",
       "summary": "Majoring in Computer Science B.S. Minoring in Psychology",
       "highlights": [
